@@ -12,6 +12,7 @@ amount of time via an online platform.
 Special thanks to my team, Team Waterloo, for the opportunity to join the competition.
 
 <h1>Marketing Analysis</h1>
+Score: 0.48 (277th/368)
 <h2>Background and Task</h2>
 The aim of this project is to build a model that can predict whether a user opens the emails sent by Shopee.<br><br>
 
@@ -30,6 +31,7 @@ Based on the data provided, participants must predict whether each user will ope
 An artificial neural network was used to make predictions onto the test set. More details can be found in the Jupyter Notebook files.
 
 <h1>Sentiment Analysis</h1>
+Score: 0.38 (276th/356)
 <h2>Background and Task</h2>
 Shopee always strive to ensure the customer’s highest satisfaction. Whatever product is sold on Shopee, they ensure the best user experience starting from product searching to product delivery, including product packaging, and product quality. Once a product is delivered, they always encourage their customer to rate the product and write their overall experience on the product landing page.<br><br>
 
